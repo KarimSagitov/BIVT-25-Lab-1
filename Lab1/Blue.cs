@@ -7,7 +7,7 @@
             bool answer = false;
 
             // code here
-
+            Console.WriteLine(a > 0);
             // end
 
             return answer;
